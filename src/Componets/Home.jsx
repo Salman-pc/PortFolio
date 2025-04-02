@@ -1,5 +1,4 @@
 import React from 'react';
-import myphoto from '../assets/myphoto.jpg'
 import resume from '../assets/resume.pdf'
 import { useState, useEffect } from "react";
 import { motion } from 'framer-motion';

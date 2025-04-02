@@ -1,11 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import music from '../assets/music.jpg'
 import restuarent_food from '../assets/restuarent_food.webp'
-import shopping_cart from '../assets/shopping_cart.jpg'
 import bmwcar from '../assets/bmwcar.jpg'
 import iphone from '../assets/iphone.png'
-import swiggy from '../assets/swiggy.jpg';
+import swiggy from '../assets/Swiggy.jpg';
 import { motion } from 'framer-motion'
 
 const Moreproject = () => {

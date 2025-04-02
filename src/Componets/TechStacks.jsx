@@ -1,5 +1,4 @@
 import React from 'react';
-import nodecolor from '../assets/nodecolor.svg'
 import { motion } from 'framer-motion';
 
 function TechStacks() {
